@@ -1,0 +1,29 @@
+h1{
+    color:#ffffff;
+}
+*{
+
+}
+
+.header h1{
+    background-color: #556b2f;
+    display:flex;
+    justify-content: center;
+}
+.header a{
+    background-color: #556b2f;
+    display:flex;
+    justify-content:space-evenly;
+    color:#ffffff;
+}
+
+.apps{
+    background-color: #ffffff;
+    display:flex;
+    justify-content: center;
+}
+
+.info{
+    background-color: #f0f8ff
+    ;
+}
